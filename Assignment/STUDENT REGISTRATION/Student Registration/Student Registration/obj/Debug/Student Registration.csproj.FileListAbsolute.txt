@@ -1,0 +1,32 @@
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\ResolveAssemblyReference.cache
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.Cache
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmMainMenu.resources
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmStudent_Details.resources
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmLogin.resources
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.Resource1.resources
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmStudentRegistration.resources
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\BusinessLayer.dll
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\DatabaseLayer.dll
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\BusinessLayer.pdb
+F:\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\DatabaseLayer.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\BusinessLayer.dll
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\DatabaseLayer.dll
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\BusinessLayer.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\bin\Debug\DatabaseLayer.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmLogin.resources
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmMainMenu.resources
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmStudent_Details.resources
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.frmStudentRegistration.resources
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student_Registration.Resource1.resources
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+F:\STUDENT REGISTRATION\Student Registration\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+F:\STUDENT REGISTRATION\Student Registration\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+F:\STUDENT REGISTRATION\Student Registration\DatabaseLayer\obj\Debug\ResolveAssemblyReference.cache
+F:\STUDENT REGISTRATION\Student Registration\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+F:\STUDENT REGISTRATION\Student Registration\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\DatabaseLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\TownSuite\Desktop\uploadAssignment\Assignment\STUDENT REGISTRATION\Student Registration\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
